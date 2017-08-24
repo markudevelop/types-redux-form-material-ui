@@ -1,0 +1,17 @@
+{
+    "name": "@types/redux-form-material-ui",
+    "version": "4.1.2",
+    "description": "TypeScript definitions for redux form material ui",
+    "license": "MIT",
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "devDependencies": {
+        "@types/react": "*",
+        "@types/material-ui": "*"
+    },
+    "typeScriptVersion": "2.0"
+}
