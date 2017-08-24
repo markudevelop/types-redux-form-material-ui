@@ -6,7 +6,7 @@
     "main": "",
     "repository": {
         "type": "git",
-        "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+        "url": "https://github.com/voidale/types-redux-form-material-ui"
     },
     "scripts": {},
     "devDependencies": {
