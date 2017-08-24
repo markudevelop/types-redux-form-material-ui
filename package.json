@@ -10,7 +10,7 @@
     },
     "scripts": {},
     "devDependencies": {
-        "@types/react": "*",
+        "@types/react": "^15.0.38",
         "@types/material-ui": "*"
     },
     "typeScriptVersion": "2.0"
